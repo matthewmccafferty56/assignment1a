@@ -1,0 +1,15 @@
+---
+title: "assignment1a"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Introduction Assignment
+
+Hello, my name is Matthew McCafferty. I am taking this course to understand programming better and to feel more comfortable using R/RStudio, and Github. Understanding data science will be an important part of my career, and I want to learn more about the processes. I hope to become more educated on the subject and hopefully use some of the skills learned in this course throughout my career.  
+
+
+My data science experience is limited to ESM206 data analysis. Other than ESM206, I have had no formal data science experience. I dealt with data for my last job, but primarily through excel, and it was not a lengthy amount of data. My limited experience in data science is the primary reason I am taking this course. 
